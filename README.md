@@ -1,6 +1,6 @@
 # Terminho
  A game similar to 'Termo' and Wordle made in Java
  
- Executable in dist -> Terminho_1.jar
+ Executable in Terminho_1 -> dist -> Terminho_1.jar
  
- Codes and forms in src/Terminho
+ Codes and forms in Terminho_1 -> src/terminho
