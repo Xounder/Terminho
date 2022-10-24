@@ -3,4 +3,4 @@
  
  Executable in dist -> Terminho_1.jar
  
- Codes in src
+ Codes and forms in src/Terminho
