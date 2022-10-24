@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="0"/>
+    <Property name="title" type="java.lang.String" value="Duetinho"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jTent71" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent72" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent73" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent74" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent75" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jTent51" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent52" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent53" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent54" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent55" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="jTent21" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent22" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent23" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent24" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent25" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jTent31" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent32" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent33" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent34" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent35" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jTent41" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent42" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent43" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent44" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent45" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jTent11" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent12" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent13" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent14" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTent15" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jTent61" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent62" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent63" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent64" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent65" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jTent261" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent262" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent263" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent264" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent265" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jTent211" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent212" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent213" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent214" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent215" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jTent221" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent222" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent223" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent224" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTent225" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="jTent231" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent232" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent233" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent234" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent235" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jTent241" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent242" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent243" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent244" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent245" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jTent251" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent252" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent253" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent254" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jTent255" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="jTent271" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent272" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent273" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent274" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTent275" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="jVoltar" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="139" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="respostaPlayer" min="-2" pref="135" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="conTentantiva" min="-2" pref="45" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="sequenciaVitoria" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent15" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent211" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent212" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent213" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent214" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent215" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent21" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent22" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent23" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent24" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent25" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent221" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent222" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent223" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent224" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent225" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent31" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent32" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent33" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent34" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent35" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent231" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent232" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent233" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent234" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent235" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent41" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent42" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent43" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent44" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent45" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent241" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent242" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent243" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent244" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent245" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent51" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent52" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent53" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent54" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent55" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent251" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent252" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent253" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent254" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent255" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent61" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent62" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent63" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent64" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent65" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent261" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent262" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent263" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent264" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent265" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTent71" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent72" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent73" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent74" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent75" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent271" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent272" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent273" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent274" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTent275" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="46" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="respostaPlayer" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="conTentantiva" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="sequenciaVitoria" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jVoltar" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe Script" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Duetinho"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="respostaPlayer">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="15" style="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="respostaPlayerActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="respostaPlayerKeyPressed"/>
+        <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="respostaPlayerKeyReleased"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="conTentantiva">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="15" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent11">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent12">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent13">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent21">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent22">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent23">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent24">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent25">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent33">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent31">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent32">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent34">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent35">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent41">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent42">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent43">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent44">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent45">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent55">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent51">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent52">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent54">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent53">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent61">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent62">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent63">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent64">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent65">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent211">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent212">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent213">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent214">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent215">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent222">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent225">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent221">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent223">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent224">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent232">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent235">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent231">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent233">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent234">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent242">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent245">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent241">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent243">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent244">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent252">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent255">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent251">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent253">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent254">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent262">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent265">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent261">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent263">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent264">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent71">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent72">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent73">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent74">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent75">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent274">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent273">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent272">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent271">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jTent275">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="28" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" __"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="sequenciaVitoria">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sequ&#xea;ncia de Vit&#xf3;rias: 0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jVoltar">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt; Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jVoltarActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
